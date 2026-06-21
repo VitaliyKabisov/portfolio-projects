@@ -1,0 +1,8 @@
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/CMakeFiles/edit_cache.dir
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/src/CMakeFiles/Xbookstore_main.dir
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/src/CMakeFiles/edit_cache.dir
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/tests/CMakeFiles/Xbookstore_tests.dir
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/tests/CMakeFiles/edit_cache.dir
+C:/Users/admin/source/repos/Xbookstore/Xbookstore/build/tests/CMakeFiles/rebuild_cache.dir

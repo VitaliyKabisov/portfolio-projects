@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.10)
+project(Xbookstore)
+
+set(CMAKE_CXX_STANDARD 11)
+
+# Добавляем include директорию
+include_directories(include)
+
+# Добавляем подкаталоги src и tests
+add_subdirectory(src)
+add_subdirectory(tests)

@@ -1,0 +1,13 @@
+# Добавляем все исходные файлы
+set(SOURCE_FILES
+    book.cpp
+    bookstore.cpp
+    main.cpp
+)
+
+# Создаем исполняемый файл для основной программы
+add_executable(Xbookstore_main ${SOURCE_FILES})
+
+# Устанавливаем цель и связываем с заголовочными файлами
+target_include_directories(Xbookstore_main PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
